@@ -1,0 +1,6 @@
+{
+    "auto challenge": true,
+    "auto infinite": true,
+    "anti afk": true,
+    "verify challenge routine cooldown minutes": 20
+  }
